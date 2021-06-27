@@ -42,6 +42,7 @@
 
 
 ## Conflict Plan
+
 * What will be your group’s process to resolve conflict, when it arises?
 
    Tell everybody to calm down.
@@ -71,6 +72,9 @@
 * How and when will you escalate the conflict if your resolution attempts are unsuccessful?
 
    When one of the team members cross the borders,so we will raise it to instructional team.
+   
+
+
 
 ## Communication Plan
 
@@ -80,7 +84,7 @@
 
 * What platforms will you use to communicate ?
 
-   WhatsApp, Slack, Zoom and Remo.
+   WhatsApp, Slack, Zoom and discord.
 
 * How often will you take breaks?
 
@@ -101,6 +105,9 @@
 * How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
 
    Offer a funny environment, so everyone feel safe, like they are between their family members.
+   
+   
+   
 
 ## Work Plan
 
@@ -111,6 +118,8 @@
 * What project management tool will be used?
 
    Trello.
+   
+   
 
 ## Git Process
 
